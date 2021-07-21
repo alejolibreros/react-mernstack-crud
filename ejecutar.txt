@@ -1,0 +1,10 @@
+para ejecutar:
+
+backend:
+mongod
+npx nodemon server.js
+
+
+
+root:
+yarn start
